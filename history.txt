@@ -1,0 +1,141 @@
+commit 00d2ceba06834ee00a13d997342c127ca636a2a0
+Author: youliming <s3445796665@163.com>
+Date:   Thu Feb 9 16:11:42 2023 +0800
+
+    blblblblblbl
+
+commit 5bcd7f00ac4d0519ea8ff50341b13adc2c481ff4
+Merge: 713835c f2ef10f
+Author: youliming <s3445796665@163.com>
+Date:   Thu Feb 9 15:37:57 2023 +0800
+
+    after
+
+commit 713835cd3b3e1df8d8a88af8b01e5470ae2ff525
+Author: youliming <s3445796665@163.com>
+Date:   Thu Feb 9 15:34:52 2023 +0800
+
+    a
+
+commit f2ef10f98f851d0857db326bec6459934a82f9b9
+Author: youliming <s3445796665@163.com>
+Date:   Thu Feb 9 15:31:40 2023 +0800
+
+    今天好热
+
+commit 53d08f9572e2a81fa9fedfafb4b10c8947e9bc2e
+Merge: a8c10dd 6892015
+Author: youliming <s3445796665@163.com>
+Date:   Thu Feb 9 15:27:16 2023 +0800
+
+    aha
+
+commit a8c10dd32ef4d06ce373577ab5dc5002cedf2c01
+Author: youliming <s3445796665@163.com>
+Date:   Thu Feb 9 15:25:57 2023 +0800
+
+    a zhong ken de hua
+
+commit 6892015c69dd13e10097738e79a5111a75e66c9c
+Author: youliming <s3445796665@163.com>
+Date:   Thu Feb 9 15:23:28 2023 +0800
+
+    some hu hua
+
+commit 797d1829c1190ac55e88b2ddf64025dc3e6e44a1
+Author: youliming <s3445796665@163.com>
+Date:   Thu Feb 9 14:54:14 2023 +0800
+
+    add a line write.
+
+commit 78a5773d0d37641da0623f288bf17d7c3a887fab
+Author: youliming <s3445796665@163.com>
+Date:   Thu Feb 9 14:10:42 2023 +0800
+
+    update readme.md
+
+commit b5e67e3c3182eb06a2c8373740f8b0c86928a414
+Author: youliming <s3445796665@163.com>
+Date:   Wed Feb 8 18:17:28 2023 +0800
+
+    you hua
+
+commit 0d3e03223b406963998eedad892699cf14fd08d8
+Author: youliming <s3445796665@163.com>
+Date:   Wed Feb 8 18:05:43 2023 +0800
+
+    end
+
+commit e2bf1f37b715933b44e8046bef284e96f03269fd
+Merge: e98d3a9 2e4dad5
+Author: youliming <s3445796665@163.com>
+Date:   Wed Feb 8 17:06:50 2023 +0800
+
+    Merge branch 'master' of github.com:niuchenming/learn_git_notes
+
+commit e98d3a9c87b5e650a063df3b1c0487643453688d
+Author: youliming <s3445796665@163.com>
+Date:   Wed Feb 8 17:04:40 2023 +0800
+
+    bug branch1
+
+commit 2e4dad5dcf1480d2badb15e7598a42895826ea99
+Author: niuchenming <94962718+niuchenming@users.noreply.github.com>
+Date:   Wed Feb 8 17:00:00 2023 +0800
+
+    Update README.md
+
+commit 69a3c171bffc42d731c84555228753a40e204fce
+Author: youliming <s3445796665@163.com>
+Date:   Wed Feb 8 16:00:50 2023 +0800
+
+    modify readme.md
+
+commit 274ddb99804488d668ee262e06fccffa853203ff
+Merge: 568d199 5fab001
+Author: youliming <s3445796665@163.com>
+Date:   Wed Feb 8 15:57:09 2023 +0800
+
+    Merge branch 'master' of github.com:niuchenming/learn_git_notes
+
+commit 568d1999756d359072432967e4916967b2e46f0e
+Author: youliming <s3445796665@163.com>
+Date:   Wed Feb 8 15:52:06 2023 +0800
+
+    next bugbarach
+
+commit 5fab00120f08e58b461e6c01e1fc6984d148cfb2
+Author: niuchenming <94962718+niuchenming@users.noreply.github.com>
+Date:   Wed Feb 8 13:57:08 2023 +0800
+
+    Create README.md
+
+commit 123051cd8a5d49d8c8b512edbeab76049c45b99e
+Author: youliming <s3445796665@163.com>
+Date:   Wed Feb 8 13:43:36 2023 +0800
+
+    after delete this line
+
+commit cd899ae9db4b80a05a9e013d32070eb9296336ec
+Author: youliming <s3445796665@163.com>
+Date:   Wed Feb 8 13:12:47 2023 +0800
+
+    next: Branch management
+
+commit 3a9d262bb6f3bc93eb41e4c3081d9e17778f04b2
+Author: youliming <s3445796665@163.com>
+Date:   Tue Feb 7 22:24:14 2023 +0800
+
+    add AHK.txt and javascript.txt and svn.txt
+
+commit c57d1a8d82877a31679c292e3add3a6d91b86531
+Author: youliming <s3445796665@163.com>
+Date:   Tue Feb 7 22:02:12 2023 +0800
+
+    modify sort
+
+commit 057874921c2e052f93cd5f2dab4e31caff2db4ac
+Author: youliming <s3445796665@163.com>
+Date:   Tue Feb 7 22:00:23 2023 +0800
+
+    2023-2-7
