@@ -16,8 +16,6 @@ hi,there.
 
 2023-2-8
 
-It is a fine day tody.
+今天天气不错
 
-There are some cloud in the sky,but the sun is sunny.
-
-
+虽然有很多的云，但是天气依然很晴朗
